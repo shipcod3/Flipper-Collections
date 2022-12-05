@@ -1,0 +1,37 @@
+Filetype: Flipper NFC device
+Version: 2
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic, Bank card
+Device type: Mifare Ultralight
+# UID, ATQA and SAK are common for all formats
+UID: 04 D6 C8 F2 38 61 80
+ATQA: 44 00
+SAK: 00
+# Mifare Ultralight specific data
+Data format version: 1
+Signature: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Mifare version: 00 00 00 00 00 00 00 00
+Counter 0: 0
+Tearing 0: 00
+Counter 1: 0
+Tearing 1: 00
+Counter 2: 0
+Tearing 2: 00
+Pages total: 16
+Pages read: 12
+Page 0: 04 D6 C8 92
+Page 1: F2 38 61 80
+Page 2: 2B 48 00 00
+Page 3: 00 00 00 00
+Page 4: 35 0C B1 B4
+Page 5: 5E 60 4B 5A
+Page 6: B1 49 53 02
+Page 7: 5A FD AB AD
+Page 8: 4F 45 0A 0C
+Page 9: 5A 96 9A B5
+Page 10: 04 D6 C8 92
+Page 11: F2 38 61 80
+Page 12: 00 00 00 00
+Page 13: 00 00 00 00
+Page 14: 00 00 00 00
+Page 15: 00 00 00 00
+Failed authentication attempts: 0
